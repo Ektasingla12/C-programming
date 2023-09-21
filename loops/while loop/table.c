@@ -7,7 +7,7 @@ int main()
     while(a<10)
     {
         b=a*n;
-        printf("%d * %d = %d",n,a,b);
+        printf("table is %d * %d = %d",n,a,b);
         a++;
     }
 }
